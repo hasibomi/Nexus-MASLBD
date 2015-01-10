@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'WebSymbolsRegular';
+    src: url('images/websymbols/websymbols-regular-webfont.eot');
+    src: url('images/websymbols/websymbols-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('images/websymbols/websymbols-regular-webfont.woff') format('woff'),
+         url('images/websymbols/websymbols-regular-webfont.ttf') format('truetype'),
+         url('images/websymbols/websymbols-regular-webfont.svg#WebSymbolsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.social {
+	list-style-type: none;
+}
+
+.social li {
+	float: left;
+}
+
+.footer {
+	list-style-type: none;
+	/*background-color: #f8f8f8;*/
+	overflow: hidden;
+	border-radius: 5px;
+	text-align: left;
+	margin-top: -.6%;
+}
+
+.footer li {
+	margin-left: 5%;
+	display: inline-block;
+}
+
+hr {
+	margin-top: .45%;
+}
